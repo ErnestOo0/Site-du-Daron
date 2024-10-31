@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="homeStyle.css">
+    <link rel="stylesheet" href="http://localhost:8080/file/homeStyle.css">
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -24,7 +25,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="#">Articles</a>
+          <a class="nav-link" href="http://localhost:8080/file/articles.html">Articles</a>
         </li>
         
         <li class="nav-item">
@@ -36,18 +37,23 @@
         </li>
     </ul>
 
-    <img src="pp.jpeg" alt="Laurent Niederman et sa Porsche Carrera GT" title="Laurent Niederman"
-    width="208" height="208"/>
-    <div id="info">
-        Mathématiques<br>
-        Bât. 425<br>
-        Université Paris-Sud<br>
-        91405 Orsay Cedex<br>
-        France
-    </div>
-    <div id="cv">
-        Je suis Laurent Niederman
-    </div>
+    <div class="row">
+      <div class="col" id="info">
+        <img src="http://localhost:8080/file/pp.jpeg" alt="Laurent Niederman et sa Porsche Carrera GT" title="Laurent Niederman" width="208" height="208"/>
+        <ul>
+          <li>Mathématiques</li>
+          <li>Bât. 425</li>
+          <li>Université Paris-Sud</li>
+          <li>91405 Orsay Cedex</li>
+          <li>France</li>
+        </ul>
+      </div>
 
+      <div class="col-8" id="cv">
+        <p>
+          Je suis Laurent Niederman et j'ai fait de grandes recherches. Je donne également des cours de maths.
+        </p>
+      </div>
+  </div>
 </body>
 </html>
