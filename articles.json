@@ -1,38 +1,62 @@
 [
     {
-        "nom": "article1",
-        "date": "2000"
+        "nom": "presentation de la carrera GT",
+        "revue": "Porsche",
+        "link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.porsche.com/france/accessoriesandservice/classic/models/980/&ved=2ahUKEwiogYLT8buJAxUBU6QEHX8JNtMQFnoECBYQAQ&usg=AOvVaw3vMMEw6UpvrbU82uox2wMW",
+        "image": "https://images-porsche.imgix.net/-/media/F9DA2B09D0034619BE00876926B3A792_F8B04E6A38E94B79AFA3C152D8F787A6_001-hero_13-5_intro?w=2500&q=85&auto=format"
     },
     {
-        "nom": "article2",
-        "date": "2000"
+        "nom": "Porsche Carrera GT, type 980",
+        "revue": "Porsche",
+        "link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.porsche.com/middle-east/fr/_tunisia_/accessoriesandservice/classic/models/980/&ved=2ahUKEwiogYLT8buJAxUBU6QEHX8JNtMQFnoECFkQAQ&usg=AOvVaw3w98f_9ZjGl6XFyazIlVyJ",
+        "image": "https://files.porsche.com/filestore/image/multimedia/none/rd-2014-porscheclassic-models-980-980-banner/normal/be5746c3-7f8b-11e8-8d30-0019999cd470;s3/porsche-normal.jpg"
     },
     {
-        "nom": "article3",
-        "date": "2000"
+        "nom": "Porsche Carrera GT",
+        "revue": "Wikipedia",
+        "link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Porsche_Carrera_GT&ved=2ahUKEwiZ-9We9LuJAxXSTKQEHYjVI504FBAWegQIHBAB&usg=AOvVaw0prBcx9loNh0ZOIghcFUoN",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/800px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg"
     },
     {
-        "nom": "article4",
-        "date": "2000"
+        "nom": "Porsche Carrera GT | Évolutions et caractéristiques",
+        "revue": "auto Forever",
+        "link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auto-forever.com/voitures/porsche-carrera-gt-fiche-technique-histoire/&ved=2ahUKEwiogYLT8buJAxUBU6QEHX8JNtMQFnoECFcQAQ&usg=AOvVaw3vizsIXovHAnNdhrMZ9JM_",
+        "image": "https://www.auto-forever.com/wp-content/uploads/2015/11/Carrera_GT_2003-2006_US_1.jpg"
     },
     {
-        "nom": "article5",
-        "date": "2000"
+        "nom": "Porsche Carrera GT : l'héritage de la course",
+        "revue": "Le Guide de l'auto",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guideautoweb.com/articles/69774/porsche-carrera-gt-l-heritage-de-la-course/&ved=2ahUKEwiogYLT8buJAxUBU6QEHX8JNtMQFnoECFwQAQ&usg=AOvVaw0lMgbPvpkM3cO2D_qLdWwX",
+        "image": "https://i.gaw.to/content/photos/56/47/564762-porsche-carrera-gt-l-heritage-de-la-course.jpg"
     },
     {
-        "nom": "article6",
-        "date": "2000"
+        "nom": "Qui a osé rouler 26.000 kilomètres en Porsche Carrera GT ?",
+        "revue": "Sport auto",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sportauto.fr/actu/insolites-actu/qui-ose-rouler-26000-kilometres-porsche-carrera-gt-images-411769.html&ved=2ahUKEwiG9Yye87uJAxWXTqQEHdStKUM4ChAWegQIIxAB&usg=AOvVaw1TcVJ9zPzXLZvlGf6NX31w",
+        "image": "https://sf1.sportauto.fr/wp-content/uploads/sportauto/2024/03/porsche-carrera-gt-26k-kilometres-1-750x410.jpeg"
     },
     {
-        "nom": "article7",
-        "date": "2000"
+        "nom": "Fiche technique Porsche Carrera GT",
+        "revue": "Autotitre",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.autotitre.com/fiche-technique/Porsche/Carrera_GT&ved=2ahUKEwiG9Yye87uJAxWXTqQEHdStKUM4ChAWegQILBAB&usg=AOvVaw1QPcRyfpxwocuDruDhr2RL",
+        "image": ""
     },
     {
-        "nom": "article8",
-        "date": "2000"
+        "nom": "artPorsche Carrera GT : la meilleure Porsche de l'histoire ?",
+        "revue": "Flat6 Magazine",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flat6mag.com/act/porsche-911/porsche-carrera-gt-la-meilleure-porsche-de-l-histoire.html&ved=2ahUKEwiG9Yye87uJAxWXTqQEHdStKUM4ChAWegQILxAB&usg=AOvVaw2TzIpicq4Sq5uU92eiZSnj",
+        "image": "https://www.flat6mag.com/medias/images/porsche-carrera-gt-profil.jpg"
     },
     {
-        "nom": "article9",
-        "date": "2000"
+        "nom": "Actualités Porsche Carrera GT",
+        "revue": "Turbo.fr",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.turbo.fr/porsche/carrera-gt/actualites-auto&ved=2ahUKEwiG9Yye87uJAxWXTqQEHdStKUM4ChAWegQINhAB&usg=AOvVaw2xukBiCWTUvP8tgLlNaUhh",
+        "image": "https://www.turbo.fr/sites/default/files/styles/card_315x225/public/2024-01/Carrera%20GT.jpeg.webp?itok=lndiw2x5"
+    },
+    {
+        "nom": "Porsche Carrera GT",
+        "revue": "Carfans",
+        "link" : "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://carfans.fr/fiches-collection/porsche-carrera-gt/&ved=2ahUKEwiG9Yye87uJAxWXTqQEHdStKUM4ChAWegQIMxAB&usg=AOvVaw26Cw4Yfz-7kJVWdaZtFkyD",
+        "image": "https://carfans.fr/wp-content/uploads/2022/07/Porsche-Carrera-GT-avant-e1666290173773.jpg"
     }
 ]

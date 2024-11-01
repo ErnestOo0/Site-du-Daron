@@ -1,5 +1,5 @@
 var express = require("express");
-var fs = require("fs");
+
 var app = express();
 const PORT = 8080
 app.listen(PORT);
