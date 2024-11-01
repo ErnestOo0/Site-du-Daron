@@ -1,12 +1,13 @@
-const express = require('express');
-const app = express();
-const http = require('http');
-const server = http.createServer(app);
+var express = require("express");
+var fs = require("fs");
+var app = express();
 const PORT = 8080
-server.listen(PORT, () => {console.log('Le serveur écoute sur le port '+PORT);});
+app.listen(PORT);
+console.log("demarage du serveur sur le port "+PORT);
 
 app.get('/', (request, response) => {
     response.sendFile('homePage.html', {root: __dirname});
+    console.log("nouvelle connexion")
 });
 
 app.get('/file/:file', (request, response) => {
@@ -15,7 +16,8 @@ app.get('/file/:file', (request, response) => {
 });
 
 app.get('/data/:data', (request, response) => {
-    response.end(request.params.data, {root: __dirname});
+    response.sendFile(request.params.data, {root: __dirname});
+    //response.json(request.params.data);
     console.log("envoie du fichier ", request.params.data);
 });
 
